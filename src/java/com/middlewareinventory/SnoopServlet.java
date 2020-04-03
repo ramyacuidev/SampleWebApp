@@ -81,7 +81,7 @@ public class SnoopServlet extends HttpServlet {
      */
     @Override
     public String getServletInfo() {
-        return "Short description";
+        return "Short description test";
     }// </editor-fold>
 
 }
